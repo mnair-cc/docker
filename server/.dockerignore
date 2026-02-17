@@ -1,0 +1,9 @@
+**/node_modules
+**/deploy/workers/trova-*
+*.txt
+*.log
+.DS_Store
+.npmrc
+Dockerfile*
+**/ci_cd/deprecated
+docker-compose.yml
